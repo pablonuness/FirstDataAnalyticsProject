@@ -59,7 +59,7 @@ _ = plt.hist(VG.Year)
 _ = plt.title('Histograma de Lançamentos por Ano')
 
 
-# Através deste histograma é enaltecido que até o ano de 2020 ocorreram certas explosões de Lançamentos de games, coom maiores localizados entre os anos de 2005 e 2010.
+# Através deste histograma é enaltecido que até o ano de 2020 ocorreram certas explosões de Lançamentos de games, com maiores localizados entre os anos de 2005 e 2010.
 
 # In[7]:
 
@@ -86,7 +86,7 @@ _ = VG.Genre.value_counts().plot.bar()
 _ = plt.title('Produção por Gênero')
 
 
-# Podemos notar que a maior categoria de games produzidas é de Action que é uma categoria de games mais casuais(Assim como Misc e Role-Playing), sem envolver tanta competitividade, asssim estimulando a compra de gamers que costumam jogar em tempo livre ou apenas por lazer, logo após podemos ver categorias que tem um nível elevado de competitividade envolvida, como Sports e Shooter.
+# Podemos notar que a maior categoria de games produzidas é de Action que é uma categoria de games mais casuais(Assim como Misc e Role-Playing), sem envolver tanta competitividade, assim estimulando a compra de gamers que costumam jogar em tempo livre ou apenas por lazer, logo após podemos ver categorias que tem um nível elevado de competitividade envolvida, como Sports e Shooter.
 
 # # 4.Análise Bivariada
 
